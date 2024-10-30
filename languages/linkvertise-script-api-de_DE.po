@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linkvertise Script API Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-08 21:27+0000\n"
+"PO-Revision-Date: 2019-04-09 18:21+0000\n"
+"Last-Translator: samuel <samu22@live.de>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: inc/Api/Callbacks/AdminCallbacks.php:155
+#, php-format
+msgid "%s domain"
+msgid_plural "%s domains"
+msgstr[0] "%s Domain"
+msgstr[1] "%s Domains"
+
+#: templates/help.php:10
+msgid "."
+msgstr "an."
+
+#: inc/Api/Callbacks/AdminCallbacks.php:49
+msgid "Account ID is empty."
+msgstr "Account ID ist nicht vorhanden."
+
+#: inc/Pages/Admin.php:109
+msgid "Activate Full Script API"
+msgstr "Aktiviere die Full Script API"
+
+#: templates/help.php:20
+msgid "All advantages at a glance:"
+msgstr "Alle Vorteile auf einen Blick:"
+
+#: templates/help.php:27
+msgid ""
+"Automatic conversion of all\n"
+"      external links into linkvertise links"
+msgstr "Automatische Umwandlung aller externen Links in Linkvertise Links"
+
+#: templates/help.php:31
+msgid ""
+"Automatic conversion of all new\n"
+"      external links into linkvertise links"
+msgstr ""
+"Automatische Umwandlung aller neuen externen Links in Linkvertise Links"
+
+#: templates/help.php:12
+msgid "automatically"
+msgstr "automatisch"
+
+#: inc/Base/Enqueue.php:88 inc/Api/Callbacks/AdminCallbacks.php:96
+msgid "Blacklist certain domains (won't be monetized)."
+msgstr "Trage Domains auf die Blacklist ein (Werden nicht monetarisiert)."
+
+#: templates/help.php:13
+msgid "converts all external links on your"
+msgstr "alle externen Links auf deiner"
+
+#: templates/help.php:3
+msgid "Do you have a website with many external links?"
+msgstr "Du besitzt eine eine Webseite mit vielen externen Links?"
+
+#: inc/Pages/Admin.php:95
+msgid "External Links"
+msgstr "Externe Links"
+
+#: templates/help.php:6
+msgid "For this we offer our"
+msgstr "Hierfür bieten wir unser"
+
+#: templates/help.php:35
+msgid "General advertising settings"
+msgstr "Allgemeine Werbeeinstellungen"
+
+#: inc/Api/Callbacks/AdminCallbacks.php:179
+msgid "get monetized."
+msgid_plural "get monetized."
+msgstr[0] "wird monetarisiert."
+msgstr[1] "werden monetarisiert."
+
+#: templates/help.php:38
+msgid "Good user experience"
+msgstr "Gute Nutzererfahrung"
+
+#: templates/help.php:2 inc/Pages/Admin.php:62 inc/Pages/Admin.php:63
+msgid "Help"
+msgstr "Hilfe"
+
+#: templates/adminMainSec.php:2
+msgid "Here you can configure the Linkvertise Full Script API."
+msgstr ""
+"Auf dieser Seite kannst du die Linkvertise Full Script API konfigurieren."
+
+msgid "https://linkvertise.net/"
+msgstr "https://linkvertise.net/"
+
+#. URI of the plugin
+msgid "https://linkvertise.net/dashboard#dynamic"
+msgstr "https://linkvertise.net/dashboard#dynamic"
+
+#: templates/help.php:11
+msgid "It completely"
+msgstr "Es wandelt vollkommen"
+
+msgid "Linkvertise"
+msgstr "Linkvertise"
+
+#. Name of the plugin
+msgid "Linkvertise Script API"
+msgstr "Linkvertise Script API"
+
+#: inc/Base/Enqueue.php:87 inc/Api/Callbacks/AdminCallbacks.php:95
+msgid "Monetize all external links."
+msgstr "Alle Links werden monetarisiert"
+
+#: inc/Base/Enqueue.php:89 inc/Api/Callbacks/AdminCallbacks.php:99
+msgid "Monetize only certain external links."
+msgstr "Nur bestimmte Links werden monetarisiert."
+
+#: inc/Base/Enqueue.php:90 inc/Api/Callbacks/AdminCallbacks.php:100
+msgid "Only enter the domains you want to monetize."
+msgstr "Trage nur die Domains ein, die du monetarisieren möchtest."
+
+#: templates/help.php:16
+msgid "Our full page script is perfect for websites with many links to other"
+msgstr ""
+"Unser Full Page Script bietet sich perfekt für Webseiten an, die viele Links "
+"zu anderen"
+
+#: inc/Api/Callbacks/AdminCallbacks.php:73
+msgid "Provided domains are invalid."
+msgstr "Eine oder mehrere URLs sind ungültig."
+
+#: inc/Api/Callbacks/AdminCallbacks.php:144
+msgid "Separate domains with ';'"
+msgstr "Trenne mehrere Domains mit ';'"
+
+#: inc/Pages/Admin.php:38 inc/Pages/Admin.php:89 inc/Base/SettingsLinks.php:17
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: templates/help.php:24
+msgid "Start immediately in one step"
+msgstr "In einem Schritt sofort starten"
+
+#: templates/help.php:5
+msgid "Then monetize your entire website in one step."
+msgstr "Dann monetarisiere jetzt deine gesamte Webseite in einem Schritt."
+
+msgid "This plugin includes the Linkvertise API script to your Wordpress page."
+msgstr ""
+"DIeses Plugin fügt das Linkvertise Full API Script in deine Wordpress Seite "
+"ein."
+
+#: templates/help.php:14
+msgid "website into linkvertise links and thus ensures high revenues."
+msgstr "Webseite in Linkvertise Links um und sorgt so für hohe Einnahmen."
+
+#: templates/help.php:17
+msgid "websites such as forums or download portals."
+msgstr "Webseiten besitzen wie zum Beispiel Foren oder Download Portale."
+
+#: inc/Api/Callbacks/AdminCallbacks.php:168
+msgid "won't get monetized"
+msgstr "wird nicht monetarisiert."
+
+#: templates/help.php:41
+msgid "You need more help? Visit our"
+msgstr "Du benötigst weitere Hilfestellungen? Dann besuche unseren"
+
+#: templates/help.php:42
+msgid "support section"
+msgstr "Support Bereich"
+
+#: templates/help.php:46
+msgid ""
+"https://player.vimeo.com/video/291255421?"
+"title=0&byline=0&portrait=0&autoplay=0"
+msgstr "https://player.vimeo.com/video/291252975"

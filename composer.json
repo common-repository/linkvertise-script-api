@@ -1,0 +1,19 @@
+{
+    "name": "samuel/linkvertise-script-api-plugin",
+    "description": "Linkvertise Script API Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+      {
+        "name": "Samuel Leicht",
+        "email": "samu22@live.de"
+      }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Inc\\": "./inc"
+      }
+    }
+}

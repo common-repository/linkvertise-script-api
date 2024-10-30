@@ -1,0 +1,100 @@
+form {
+  margin-top: 2em;
+}
+
+textarea {
+    padding: 10px;
+    line-height: 1.5;
+    max-width: 315px !important;
+}
+
+h3 {
+  margin: 1.8em 0;
+}
+
+.help-video-container {
+  padding-top: 50px;
+}
+
+.ext-links-label label {
+    display: block;
+    margin-bottom: 10px;
+    color: #555d66;
+    font-size: 90%;
+}
+
+.domain-count-container {
+  font-size: 80%;
+  color: #555d66;
+}
+
+.ext-link-list-desc-container p {
+  font-size: 110%;
+}
+
+.radio-btns-container {
+  margin-top: 10px;
+}
+
+.admin-main-sec-desc {
+  font-size: 110%;
+  margin-bottom: 10px;
+}
+
+/* Customize the label (the container) */
+.custom-radio-label {
+  background: #32373c;
+  border-color: #23282d #23282d #23282d;
+  box-shadow: 0 1px 0 #32373c;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 10px 49px 10px 49px;
+  text-align: center;
+}
+
+.custom-radio-container {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.custom-radio-label:hover {
+  background: #008ec2;
+  border-color: #006799;
+  border-color: #0073aa #006799 #006799;
+  box-shadow: 0 1px 0 #006799;
+}
+
+.custom-radio-container input:checked + label {
+  background: #0085ba;
+  border-color: #0073aa #006799 #006799;
+  box-shadow: 0 1px 0 #006799;
+  text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+
+/* Hide the browser's default radio button */
+.custom-radio-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.help-page-container {
+  margin: 2em 0 0 1em;
+  font-size: 120%;
+  max-width: 900px;
+}
+
+.help-page-container p {
+  font-size: 100%;
+}
+
+.help-page-desc {
+  margin: 1em 0 2em 0;
+}
+
+.list-unstyled {
+  margin: 0 0 3em 0;
+}

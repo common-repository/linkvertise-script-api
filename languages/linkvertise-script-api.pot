@@ -1,0 +1,183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Linkvertise Script API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-08 21:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: inc/Api/Callbacks/AdminCallbacks.php:155
+#, php-format
+msgid "%s domain"
+msgid_plural "%s domains"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/help.php:10
+msgid "."
+msgstr ""
+
+#: inc/Api/Callbacks/AdminCallbacks.php:49
+msgid "Account ID is empty."
+msgstr ""
+
+#: inc/Pages/Admin.php:109
+msgid "Activate Full Script API"
+msgstr ""
+
+#: templates/help.php:20
+msgid "All advantages at a glance:"
+msgstr ""
+
+#: templates/help.php:27
+msgid ""
+"Automatic conversion of all\n"
+"      external links into linkvertise links"
+msgstr ""
+
+#: templates/help.php:31
+msgid ""
+"Automatic conversion of all new\n"
+"      external links into linkvertise links"
+msgstr ""
+
+#: templates/help.php:12
+msgid "automatically"
+msgstr ""
+
+#: inc/Base/Enqueue.php:88 inc/Api/Callbacks/AdminCallbacks.php:96
+msgid "Blacklist certain domains (won't be monetized)."
+msgstr ""
+
+#: templates/help.php:13
+msgid "converts all external links on your"
+msgstr ""
+
+#: templates/help.php:3
+msgid "Do you have a website with many external links?"
+msgstr ""
+
+#: inc/Pages/Admin.php:95
+msgid "External Links"
+msgstr ""
+
+#: templates/help.php:6
+msgid "For this we offer our"
+msgstr ""
+
+#: templates/help.php:35
+msgid "General advertising settings"
+msgstr ""
+
+#: inc/Api/Callbacks/AdminCallbacks.php:179
+msgid "get monetized."
+msgid_plural "get monetized."
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/help.php:38
+msgid "Good user experience"
+msgstr ""
+
+#: templates/help.php:2 inc/Pages/Admin.php:62 inc/Pages/Admin.php:63
+msgid "Help"
+msgstr ""
+
+#: templates/adminMainSec.php:2
+msgid "Here you can configure the Linkvertise Full Script API."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://linkvertise.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://linkvertise.net/dashboard#dynamic"
+msgstr ""
+
+#: templates/help.php:11
+msgid "It completely"
+msgstr ""
+
+#. Author of the plugin
+msgid "Linkvertise"
+msgstr ""
+
+#. Name of the plugin
+msgid "Linkvertise Script API"
+msgstr ""
+
+#: inc/Base/Enqueue.php:87 inc/Api/Callbacks/AdminCallbacks.php:95
+msgid "Monetize all external links."
+msgstr ""
+
+#: inc/Base/Enqueue.php:89 inc/Api/Callbacks/AdminCallbacks.php:99
+msgid "Monetize only certain external links."
+msgstr ""
+
+#: inc/Base/Enqueue.php:90 inc/Api/Callbacks/AdminCallbacks.php:100
+msgid "Only enter the domains you want to monetize."
+msgstr ""
+
+#: templates/help.php:16
+msgid "Our full page script is perfect for websites with many links to other"
+msgstr ""
+
+#: inc/Api/Callbacks/AdminCallbacks.php:73
+msgid "Provided domains are invalid."
+msgstr ""
+
+#: inc/Api/Callbacks/AdminCallbacks.php:144
+msgid "Separate domains with ';'"
+msgstr ""
+
+#: inc/Pages/Admin.php:38 inc/Pages/Admin.php:89 inc/Base/SettingsLinks.php:17
+msgid "Settings"
+msgstr ""
+
+#: templates/help.php:24
+msgid "Start immediately in one step"
+msgstr ""
+
+#: templates/help.php:5
+msgid "Then monetize your entire website in one step."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin includes the Linkvertise API script to your Wordpress page."
+msgstr ""
+
+#: templates/help.php:14
+msgid "website into linkvertise links and thus ensures high revenues."
+msgstr ""
+
+#: templates/help.php:17
+msgid "websites such as forums or download portals."
+msgstr ""
+
+#: templates/help.php:41
+msgid "You need more help? Visit our"
+msgstr ""
+
+#: templates/help.php:42
+msgid "support section"
+msgstr ""
+
+#: templates/help.php:46
+msgid "https://player.vimeo.com/video/291255421?title=0&byline=0&portrait=0&autoplay=0"
+msgstr ""
+
+#: inc/Api/Callbacks/AdminCallbacks.php:168
+msgid "won't get monetized"
+msgid_plural "won't get monetized"
+msgstr[0] ""
+msgstr[1] ""
